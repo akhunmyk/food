@@ -1,0 +1,507 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9,IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="renderer" content="webkit">
+    <meta charset="UTF-8">
+        <title>Segway-Ninebot</title>
+    <meta name="keywords" content="Segway-Ninebot，kickscooter，gokart，gokart pro，gokart kit，ekickscooter，kids bike">
+<meta name="description" content="">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="hCXgAZZSWa2g8bj4a9H4i0gKxPKj7oIbYv3cYzx-cKm9YYNJ2CsM4cWGwIEJsrTdfkurucvX1m0KmLUOcCxCmQ==">
+
+<link href="/static/css/animate.min.css" rel="stylesheet">
+<link href="/static/css/bootstrap.css" rel="stylesheet">
+<link href="/static/css/swiper.min.css" rel="stylesheet">
+<link href="/static/css/font-awesome.min.css" rel="stylesheet">
+<link href="/static/css/idangerous.swiper2.7.6.css" rel="stylesheet">
+<link href="/static/css/normalize.css" rel="stylesheet">
+<link href="/static/css/app.min.css" rel="stylesheet">
+<link href="/static/css/index.css" rel="stylesheet">
+<script src="/assets/dbcb3ee9/jquery-1.10.1.min.js"></script>
+<script src="/static/js/wow.min.js"></script>
+<script src="/static/js/swiper.animate1.0.2.min.js"></script>
+<script src="/static/js/idangerous.swiper2.7.6.min.js"></script>
+<script src="/static/js/swiper.min.js"></script>
+<script src="/static/js/app.min.js"></script>
+<script src="/static/js/common.js"></script></head>
+
+<body>
+        <!--header-white-wrapper-->
+    <div class="header-white-wrapper">
+        <div class="rows-inner-container" id="headerWhiteWrap">
+            <!--left-box-->
+            <div class="left-box">
+                <a href="/index.html" class="logo">
+                    <img src="/static/images/segway-logo-dark.png" alt="" class="black">
+                    <img src="/static/images/segway-logo-white.png" alt="" class="white">
+                </a>
+            </div>
+            <!--/left-box-->
+            <!--right-box-->
+            <div class="right-box">
+                <div class="nav-list" id="mobileHeadList">
+                    <div class="list-item   ">
+                        <p class="top"><a href="javascript:void(0);">Consumer</a></p>
+                        <ul class="sub-list thumb">
+                                                            <li><a href="/product/kickscooter-es2.html">
+                                        <img src="/static/images/menu-icon-9.png" alt="KickScooter ES2">                                        <span>KickScooter ES2</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-es3.html">
+                                        <img src="/static/images/menu-icon-10.png" alt="KickScooter ES3">                                        <span>KickScooter ES3</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-es4.html">
+                                        <img src="/static/images/menu-icon-11.png" alt="KickScooter ES4">                                        <span>KickScooter ES4</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-es1ld.html">
+                                        <img src="/static/images/menu-icon-104.png" alt="KickScooter ES1LD">                                        <span>KickScooter ES1LD</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-e22.html">
+                                        <img src="/static/images/menu-icon-77.png" alt="KickScooter E22">                                        <span>KickScooter E22</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-e25e45.html">
+                                        <img src="/static/images/menu-icon-90.png" alt="KickScooter E25&amp;E45">                                        <span>KickScooter E25&E45</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-max.html">
+                                        <img src="/static/images/menu-icon-12.png" alt="KickScooter MAX">                                        <span>KickScooter MAX</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-max-g30lp.html">
+                                        <img src="/static/images/menu-icon-97.png" alt="KickScooter MAX G30LP">                                        <span>KickScooter MAX G30LP</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ekickscooter-e8e10.html">
+                                        <img src="/static/images/menu-icon-96.png" alt="eKickScooter E8&amp;E10">                                        <span>eKickScooter E8&E10</span>
+                                    </a> </li>
+                                                            <li><a href="/product/kickscooter-air-t15.html">
+                                        <img src="/static/images/menu-icon-95.png" alt="KickScooter Air T15">                                        <span>KickScooter Air T15</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-kids-bike.html">
+                                        <img src="/static/images/menu-icon-89.png" alt="Ninebot Kids Bike">                                        <span>Ninebot Kids Bike</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-gokart-kit.html">
+                                        <img src="/static/images/menu-icon-13.png" alt="Ninebot Gokart Kit">                                        <span>Ninebot Gokart Kit</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-drift-w1.html">
+                                        <img src="/static/images/menu-icon-15.png" alt="Segway Drift W1">                                        <span>Segway Drift W1</span>
+                                    </a> </li>
+                                                            <li><a href="/product/loomo-personal-robot.html">
+                                        <img src="/static/images/menu-icon-14.png" alt="Loomo Personal Robot">                                        <span>Loomo Personal Robot</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-s.html">
+                                        <img src="/static/images/menu-icon-16.png" alt="Ninebot S">                                        <span>Ninebot S</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-s-plus.html">
+                                        <img src="/static/images/menu-icon-17.png" alt="Segway S-PLUS">                                        <span>Segway S-PLUS</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-one-s2.html">
+                                        <img src="/static/images/menu-icon-18.png" alt="Ninebot One S2">                                        <span>Ninebot One S2</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-dirt-ebike.html">
+                                        <img src="/static/images/menu-icon-19.png" alt="Segway Dirt eBike">                                        <span>Segway Dirt eBike</span>
+                                    </a> </li>
+                                                            <li><a href="/spro.html">
+                                        <img src="/static/images/menu-icon-44.png" alt="Ninebot S PRO">                                        <span>Ninebot S PRO</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-emoped-c.html">
+                                        <img src="/static/images/menu-icon-71.png" alt="Ninebot eMoped C">                                        <span>Ninebot eMoped C</span>
+                                    </a> </li>
+                                                            <li><a href="/product/ninebot-escooter-e.html">
+                                        <img src="/static/images/menu-icon-72.png" alt="Ninebot eScooter E">                                        <span>Ninebot eScooter E</span>
+                                    </a> </li>
+                                                            <li><a href="/accessories.html">
+                                        <img src="/static/images/menu-icon-20.png" alt="Accessories">                                        <span>Accessories</span>
+                                    </a> </li>
+                                                    </ul>
+                    </div>
+                    <div class="list-item   ">
+                        <p class="top"><a href="javascript:void(0);">Professional</a></p>
+                        <ul class="sub-list thumb">
+                                                            <li><a href="/product/segway-i2-se.html">
+                                        <img src="/static/images/menu-icon-21.png" alt="Segway i2 SE">                                        <span>Segway i2 SE</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-x2-se.html">
+                                        <img src="/static/images/menu-icon-22.png" alt="Segway X2 SE">                                        <span>Segway X2 SE</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-se-3.html">
+                                        <img src="/static/images/menu-icon-23.png" alt="Segway SE-3">                                        <span>Segway SE-3</span>
+                                    </a> </li>
+                                                            <li><a href="/product/segway-s-pod-concept.html">
+                                        <img src="/static/images/menu-icon-24.png" alt="Segway S-Pod (Concept)">                                        <span>Segway S-Pod (Concept)</span>
+                                    </a> </li>
+                                                            <li><a href="/professional-accessories.html">
+                                        <img src="/static/images/menu-icon-25.png" alt="Components">                                        <span>Components</span>
+                                    </a> </li>
+                                                    </ul>
+                    </div>
+                    <div class="list-item   ">
+                        <p class="top"><a href="http://poweredby.segway.com/" target="_blank">Enterprise</a></p>
+                    </div>
+                    <div class="list-item   ">
+                        <p class="top"><a href="http://powersports.segway.com/" target="_blank">Powersports</a></p>
+                    </div>
+                    <div class="list-item showIt relative ">
+                        <p class="top"><a href="javascript:;">Robotics</a></p>
+                        <ul class="sub-list txt">
+                            <li><a href="https://www.segwayrobotics.com/" target="_blank">Segway Robotics</a></li>
+                            <li><a href="/commercial.html">Segway RMP</a></li>
+                        </ul>
+                    </div>
+                    <div class="list-item   ">
+                        <p class="top"><a href="https://www.segwaydiscovery.com/" target="_blank">Discovery</a></p>
+                    </div>
+                    <div class="list-item  relative ">
+                        <p class="top"><a href="javascript:;">Explore</a></p>
+                        <ul class="sub-list txt">
+                            <li><a href="/about-us.html">About Us</a></li>
+                            <li><a href="/events.html">Events</a></li>
+                            <li><a href="https://www.indiegogo.com/projects/segway-dirt-ebike-the-epic-off-road-ride--3/coming_soon" target="_blank">Showcase</a></li>
+                            <li><a href="/news.html">Newsroom</a></li>
+                            <li><a href="/trophy-room.html">Trophy Room</a></li>
+                            <li><a href="/contact.html">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="list-item  relative ">
+                        <p class="top"><a href="javascript:;">Support</a></p>
+                        <ul class="sub-list txt">
+                            <li><a href="/safety.html">Safety</a></li>
+                            <li><a href="https://segway.zendesk.com/hc/en-us" target="_blank">Customer Service</a></li>
+                            <li><a href="/return-policy.html">After-Sale Service Policies</a></li>
+                            <li><a href="/download.html">Download Center</a></a></li>
+                        </ul>
+                    </div>
+                     <!--
+                    <div class="list-item   button">
+                        <p class="top"><a href="https://store.segway.com/" target="_blank">Store</a></p>
+                    </div>
+                    -->
+                </div>
+                <form action="/search.html" method="get" class="search-form" id="searchForm">
+                    <div class="rows-inner-container">
+                        <input type="text" name="s" class="key" value="" id="searchValue" placeholder="Search" autocomplete="off" />
+                        <span class="btn-close" id="btnSearchClose"><i class="fa fa-times "></i></span>
+                    </div>
+                </form>
+                <a href="javascript:;" class="search-icon" id="iconSearch"><i class="fa fa-search "></i></a>
+            </div>
+            <!--/right-box-->
+            <div class="menu-list" id="mobileHeadBtn">
+                <i class="fa fa-bars"></i>
+            </div>
+        </div>
+        
+    </div>
+    <!--/header-white-wrapper-->
+    
+<div class="clearfix"></div>
+<!--slider-index-wrapper-->
+<div class="slider-index-wrapper slider-index-wrapper-reset">
+    <div class="swiper-container" id="swiperBox">
+        <a class="arrow-left" href="#"></a>
+        <a class="arrow-right" href="#"></a>
+        <!--swiper-wrapper-->
+        <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/kickscooter-max-g30lp.html" class="inner">
+                    <img src="/data/upload/slide/20081111533049376.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot KickScooter MAX G30LP</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">MAXimum Power, MAXimum Joy.</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/kickscooter-es1ld.html" class="inner">
+                    <img src="/data/upload/slide/20091116355435550.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot KickScooter ES1LD</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Stunning in appearance, fashion icon among electric kickscooters</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/ekickscooter-e8e10.html" class="inner">
+                    <img src="/data/upload/slide/20081111451517496.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot eKickScooter E8&E10</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">The New Sensation for Big Kids! Cruise in Style.</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/kickscooter-air-t15.html" class="inner">
+                    <img src="/data/upload/slide/20081111545478073.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot KickScooter Air T15</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">An ultra-portable kickscooter from the future</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/kickscooter-e22.html" class="inner">
+                    <img src="/data/upload/slide/20071413353191090.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot KickScooter E22</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Instant attraction at first sight</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/kickscooter-max.html" class="inner">
+                    <img src="/data/upload/slide/20071413510757927.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot KickScooter MAX</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">The wait is over, MAX is here!</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                    <div class="swiper-slide">
+                <a href="http://ap-en.segway.com/product/ninebot-s.html" class="inner">
+                    <img src="/data/upload/slide/20081309490820610.jpg" alt="" class="ani img" style="visibility: hidden;"/>
+              
+                <div class="txt-info">
+                                            <h3 class="ani" swiper-animate-effect="fadeInDown" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Ninebot S</h3>
+                        <p class="ani" swiper-animate-effect="fadeInUp" swiper-animate-duration="2s" swiper-animate-delay=".2s" style="color:#ffffff">Smart Self-Balancing Electric Transporter</p>
+                                        
+                </div>
+                  </a>
+            </div>
+                </div>
+        <!--/swiper-wrapper-->
+    </div>
+</div>
+<!--/slider-index-wrapper-->
+
+<!--index-main-wrapper-->
+<div class="index-main-wrapper">
+    <!--index-column-container-->
+    <div class="index-column-container">
+        <div class="rows-inner-container">
+            <!--left-box-->
+            <ul class="left-box">
+                <li class="mb20"><a href="/product/ninebot-gokart-kit.html" class="index-thumb large"><img src="/data/upload/image/20201026/20201026154432_49846.jpg" alt=""></a></li>
+               <li class="mb20"><a href="/product/ninebot-kids-bike.html" class="index-thumb" ><img src="/data/upload/image/20201026/20201026160736_29684.jpg" alt=""></a></li>
+            </ul>
+            <!--/left-box-->
+            <!--right-box-->
+            <ul class="right-box">
+                 <li class="mb20"><a href="/spro.html" class="index-thumb"><img src="/data/upload/image/20201026/20201026160744_61048.jpg" alt=""></a></li>                
+                <li class="mb20"><a href="/product/kickscooter-e25e45.html"  class="index-thumb"><img src="/data/upload/image/20201026/20201026162542_19750.jpg
+" alt=""></a></li>
+                <li><a href="/events.html"class="index-thumb"><img src="/static/images/index_thumb_05.jpg" alt=""></a></li>
+            </ul>
+            <!--/right-box-->
+        </div>
+    </div>
+    <!--/index-column-container-->
+    <!--index-bottom-container-->
+    <div class="index-bottom-container">
+        <div class="rows-inner-container">
+            <ul class="list">
+                <li><a href="/safety.html"><img src="/static/images/pre-footer1.png" alt=""><span class="tit">Safety</span></a></li>
+                <li><a href="https://segway.zendesk.com/hc/en-us" target="_blank"><img src="/static/images/pre-footer2.png" alt=""><span class="tit">Customer Support</span></a></li>
+                <li><a href="/product-comparison.html"><img src="/static/images/pre-footer3.png" alt=""><span class="tit">Product Comparison</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <!--/index-bottom-container-->
+</div>
+<!--/index-main-wrapper-->
+
+    <!--footer-wrapper	-->
+    <div class="footer-wrapper">
+        <div class="rows-container">
+            <!--rows-inner-container-->
+            <div class="rows-inner-container list">
+                <!--column-->
+                <div class="column-box">
+                    <dl>
+                        <dt>Product Categories</dt>
+                        <dd class="animated">
+                            <ul class="list">
+                                <li><a href="/consumers.html">Consumer</a></li>
+                                <li><a href="/professionals.html">Professional</a></li>
+                                <li><a href="http://poweredby.segway.com/" target="_blank">Enterprise</a></li>
+                                <li><a href="http://powersports.segway.com/" target="_blank">Powersports</a></li>
+                                <li><a href="https://www.segwayrobotics.com/" target="_blank">Robotics</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <!--/column-->
+                <!--column-->
+                <div class="column-box">
+                    <dl>
+                        <dt>Where to Buy</dt>
+                        <dd class="animated">
+                            <ul class="list">
+                                <li><a href="/find-a-dealer.html">Find a Dealer</a></li>
+                                <li><a href="https://store.segway.com/" target="_blank">Segway Online Store</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt>Support</dt>
+                        <dd class="animated">
+                            <ul class="list">
+                                <li><a href="/safety.html">Safety and Compliance</a></li>
+                                <li><a href="/service-locations.html" target="_blank">Customer Service</a></li>
+                                <li><a href="/return-policy.html">After-Sale Service Policies</a></li>
+                                <li><a href="/download.html">Download Center</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <!--/column-->
+                <!--column-->
+                <div class="column-box">
+                    <dl>
+                        <dt>Explore</dt>
+                        <dd class="animated">
+                            <ul class="list">
+                                <li><a href="/about-us.html">About Segway</a></li>
+                                <li><a href="https://www.indiegogo.com/projects/segway-dirt-ebike-the-epic-off-road-ride--3/coming_soon" target="_blank">Showcase</a></li>
+                                <li><a href="/events.html">Events</a></li>
+<!--                                <li><a href="--><!--">Find a Segway Tour</a></li>-->
+                                <li><a href="/service-locations.html">Find Service Centers</a></li>
+                                <li><a href="/news.html">Newsroom</a></li>
+                                <li><a href="/trophy-room.html">Trophy Room</a></li>
+                                  <!-- <li><a href="/careers.html">Job Opportunities</a></li>-->
+                                <li><a href="/contact.html">Contact Us</a></li>
+                                <li><a href="/contact.html">Become a Dealer</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <!--/column-->
+                <!--column-->
+                <div class="column-box">
+                    <dl>
+                        <dt>Services</dt>
+                        <dd class="animated">
+                            <ul class="list">
+                                <li><a href="http://poweredby.segway.com/" target="_blank">Powered by Segway</a></li>
+                                <li><a href="http://www.segway.com/" target="_blank">Segway</a></li> 
+                                <li><a href="https://www.segwaydiscovery.com/" target="_blank">Segway Discovery</a></li>
+                                <li><a href="https://www.segwayrobotics.com/" target="_blank">Segway Robotics</a></li>
+                                <li><a href="http://eu-en.segway.com/" target="_blank">Segway EMEA</a></li>
+                                <li><a href="https://smartstore.naver.com/segway-ninebot/" target="_blank">Ninebot KR: Naver Smartstore</a></li>
+                                <li><a href="http://www.ninebot.cn/" target="_blank">Ninebot China</a></li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </div>
+                <!--/column-->
+                <!--column-->
+                <div class="column-box">
+                    <dl>
+                        <dt>Subscribe</dt>
+                        <dd class="animated">
+                            <form id="w0" class="email-form" action="/subscribe.html" method="post">
+<input type="hidden" name="_csrf" value="hCXgAZZSWa2g8bj4a9H4i0gKxPKj7oIbYv3cYzx-cKm9YYNJ2CsM4cWGwIEJsrTdfkurucvX1m0KmLUOcCxCmQ==">                                <p>Sign up for the latest news & offers.</p>
+                                <div class="form-group field-subscribe-email required">
+
+<input type="text" id="subscribe-email" class="txt" name="Subscribe[email]" placeholder="Email" autocomplete="off" aria-required="true">
+
+<div class="help-block"></div>
+</div>                                <button type="submit" class="btn-submit">SUBMIT</button>
+                                <p>*We respect your privacy.</p>
+                            </form>                        </dd>
+                    </dl>
+                </div>
+                <!--/column-->
+            </div>
+            <!--/rows-inner-container-->
+        </div>
+        <div class="rows-container">
+            <!--rows-inner-container-->
+            <div class="rows-inner-container copyright">
+                <!--table-list-->
+                <div class="table-list">
+                    <div class="cell left">
+                        <p>Segway <a href="/privacy-policy.html">Privacy Policy</a></p>
+                    </div>
+                    <div class="cell right">
+                        <ul class="share-list">
+                            <li><a href="https://www.facebook.com/999SegwayNinebotAPAC" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/ApacSegway" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UCAXmBNCYNf2roUVR6Cg2McA?view_as=subscriber" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                            <li><a href="https://www.instagram.com/segwayninebot.apac/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/table-list-->
+            </div>
+            <!--/rows-inner-container-->
+        </div>
+        <div class="rows-container">
+            <!--rows-inner-container-->
+            <div class="rows-inner-container bottom">
+                <!--table-list-->
+                <div class="table-list line">
+                    <div class="cell left">
+                        <p>COPYRIGHT © SEGWAY INC. ALL RIGHTS RESERVED.</p>
+                    </div>
+                    <div class="cell right">
+                        <ul class="language-list">
+                            <li class="img"><a href="javascript:;"><img src="/static/images/langlogo.png" alt=""></a></li>
+                            <li><a href="/international.html">APAC / English</a><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-25708414-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-25708414-2');
+</script>
+
+<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279202078'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/stat.php%3Fid%3D1279202078%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+</li>
+                        </ul>
+                    </div>
+                </div>
+                <!--/table-list-->
+            </div>
+            <!--/rows-inner-container-->
+        </div>
+    </div>
+    <!--/footer-wrapper-->
+ <div class="fixed-top-box">
+        <ul class="list">
+            <li class="up2top" id="up2TopBtn"><a href="javascript:;"><i class="fa fa-chevron-up "></i></a></li>
+            <!--   <li class="help"><a href="javascript:;">
+                    <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true">
+                        <title></title>
+                        <g id="Layer_4">
+                            <path d="M11,12.3V13c0,0-1.8,0-2,0v-0.6c0-0.6,0.1-1.4,0.8-2.1c0.7-0.7,1.6-1.2,1.6-2.1c0-0.9-0.7-1.4-1.4-1.4 c-1.3,0-1.4,1.4-1.5,1.7H6.6C6.6,7.1,7.2,5,10,5c2.4,0,3.4,1.6,3.4,3C13.4,10.4,11,10.8,11,12.3z"></path>
+                            <circle cx="10" cy="15" r="1"></circle>
+                            <path d="M10,2c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S5.6,2,10,2 M10,0C4.5,0,0,4.5,0,10s4.5,10,10,10s10-4.5,10-10S15.5,0,10,0 L10,0z"></path>
+                        </g>
+                    </svg><span>帮助</span>
+                </a></li>-->
+        </ul>
+    </div>
+<script src="/static/js/index.js"></script>
+<script src="/assets/3d60e48a/yii.js"></script>
+<script src="/assets/3d60e48a/yii.validation.js"></script>
+<script src="/assets/3d60e48a/yii.activeForm.js"></script>
+<script>jQuery(function ($) {
+jQuery('#w0').yiiActiveForm([{"id":"subscribe-email","name":"email","container":".field-subscribe-email","input":"#subscribe-email","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Email cannot be blank."});yii.validation.string(value, messages, {"message":"Email must be a string.","max":255,"tooLong":"Email should contain at most 255 characters.","skipOnEmpty":1});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Email is not a valid email address.","enableIDN":false,"skipOnEmpty":1});}}], []);
+});</script></body>
+
+</html>
